@@ -4,8 +4,14 @@ Go implementation of Rendezvous (highest random weight) hashing inspired by
 https://github.com/sile/rendezvous_hash.
 
 ## Install
+As a dependency:
 ```sh
 go get github.com/yoshiyoshifujii/go-rendezvous-hash
+```
+
+For local development:
+```sh
+git clone https://github.com/yoshiyoshifujii/go-rendezvous-hash.git
 ```
 
 ## Usage
